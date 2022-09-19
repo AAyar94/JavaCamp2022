@@ -1,4 +1,4 @@
-package dizilerDemo;
+package Gun1_Ders_ve_Odev.helloJava.dizilerDemo;
 
 public class dizilerDemo {
     public static void main(String[] args){

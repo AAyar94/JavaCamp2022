@@ -1,4 +1,4 @@
-package stringsDemo;
+package Gun1_Ders_ve_Odev.helloJava.stringsDemo;
 
 public class StringsDemo {
     public static void main(String[] args){

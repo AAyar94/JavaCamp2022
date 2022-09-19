@@ -1,4 +1,4 @@
-package asalSayiMi;
+package Gun1_Ders_ve_Odev.helloJava.asalSayiMi;
 
 import java.util.Scanner;
 

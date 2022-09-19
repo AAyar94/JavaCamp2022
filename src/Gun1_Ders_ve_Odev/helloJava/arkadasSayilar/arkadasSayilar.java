@@ -1,4 +1,4 @@
-package arkadasSayilar;
+package Gun1_Ders_ve_Odev.helloJava.arkadasSayilar;
 
 import java.util.Scanner;
 

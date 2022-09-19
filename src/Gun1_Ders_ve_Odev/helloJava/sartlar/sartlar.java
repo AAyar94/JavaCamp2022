@@ -1,4 +1,4 @@
-package sartlar;
+package Gun1_Ders_ve_Odev.helloJava.sartlar;
 
 public class sartlar {
     public static void main(String[] arga){

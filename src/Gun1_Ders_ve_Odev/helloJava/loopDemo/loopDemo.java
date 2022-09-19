@@ -1,4 +1,4 @@
-package loopDemo;
+package Gun1_Ders_ve_Odev.helloJava.loopDemo;
 
 public class loopDemo {
     public static void main(String[] args){

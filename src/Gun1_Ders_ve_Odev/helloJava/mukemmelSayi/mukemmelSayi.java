@@ -1,4 +1,4 @@
-package mukemmelSayi;
+package Gun1_Ders_ve_Odev.helloJava.mukemmelSayi;
 
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package sayiBulma;
+package Gun1_Ders_ve_Odev.helloJava.sayiBulma;
 
 public class sayiBulma {
     public static void main(String[] args){

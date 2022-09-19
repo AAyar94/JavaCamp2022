@@ -1,4 +1,4 @@
-package enBuyukSayi;
+package Gun1_Ders_ve_Odev.helloJava.enBuyukSayi;
 
 public class enBuyukSayi {
     public static void main(String[] args){

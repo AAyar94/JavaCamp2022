@@ -1,4 +1,4 @@
-package recapDemo2Diziler;
+package Gun1_Ders_ve_Odev.helloJava.recapDemo2Diziler;
 
 public class recapDemo2Diziler {
     public static void main(String[] args){

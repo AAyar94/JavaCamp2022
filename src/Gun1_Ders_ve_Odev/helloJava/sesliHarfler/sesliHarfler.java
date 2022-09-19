@@ -1,4 +1,4 @@
-package sesliHarfler;
+package Gun1_Ders_ve_Odev.helloJava.sesliHarfler;
 
 import java.util.Scanner;
 

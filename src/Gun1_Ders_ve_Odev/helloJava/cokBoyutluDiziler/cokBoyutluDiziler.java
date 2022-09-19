@@ -1,4 +1,4 @@
-package cokBoyutluDiziler;
+package Gun1_Ders_ve_Odev.helloJava.cokBoyutluDiziler;
 
 public class cokBoyutluDiziler {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package helloJava;
+package Gun1_Ders_ve_Odev.helloJava;
 
 public class helloJava {
     public static void main(String[] args){

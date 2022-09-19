@@ -1,4 +1,4 @@
-package swichDemo;
+package Gun1_Ders_ve_Odev.helloJava.swichDemo;
 
 public class Swich_Demo {
     public static void main(String[] args){

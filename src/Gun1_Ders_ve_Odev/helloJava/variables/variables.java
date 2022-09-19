@@ -1,4 +1,4 @@
-package variables;
+package Gun1_Ders_ve_Odev.helloJava.variables;
 
 public class variables {
     public static void main(String[] args){
