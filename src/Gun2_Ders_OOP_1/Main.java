@@ -49,7 +49,7 @@ public class Main {
         corporateCustomer.setCompanyName("Java");
         corporateCustomer.setTaxNumber("1234567890");
 
-        Customer[] customers = {IndividualCustomer,CorporateCustomer};
+        Customer[] customers = {individualCustomer,corporateCustomer};
 
     }
 
