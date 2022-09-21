@@ -1,6 +1,6 @@
-package Gun1_Ders_ve_Odev.helloJava.dizilerDemo;
+package Gun1_Ders_ve_Odev.helloJava.DizilerDemo;
 
-public class dizilerDemo {
+public class DizilerDemo {
     public static void main(String[] args){
         String ogrenci1= "Adem";
         String ogrenci2= "Ayşe";

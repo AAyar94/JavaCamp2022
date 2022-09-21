@@ -1,9 +1,9 @@
-package Gun1_Ders_ve_Odev.helloJava.mukemmelSayi;
+package Gun1_Ders_ve_Odev.helloJava.MukemmelSayi;
 
 
 import java.util.Scanner;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
     public static void main(String[] args){
         System.out.println("Pozitif bir doğal sayı giriniz : ");
         Scanner tara = new Scanner(System.in);

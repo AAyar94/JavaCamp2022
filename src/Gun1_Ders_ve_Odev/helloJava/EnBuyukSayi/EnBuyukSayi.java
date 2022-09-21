@@ -1,6 +1,6 @@
-package Gun1_Ders_ve_Odev.helloJava.enBuyukSayi;
+package Gun1_Ders_ve_Odev.helloJava.EnBuyukSayi;
 
-public class enBuyukSayi {
+public class EnBuyukSayi {
     public static void main(String[] args){
         int sayi1 =24;
         int sayi2=25;

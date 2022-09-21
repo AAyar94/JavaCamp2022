@@ -1,6 +1,6 @@
-package Gun1_Ders_ve_Odev.helloJava.sartlar;
+package Gun1_Ders_ve_Odev.helloJava.Sartlar;
 
-public class sartlar {
+public class Sartlar {
     public static void main(String[] arga){
         int sayi = 24;
 

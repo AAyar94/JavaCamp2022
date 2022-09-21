@@ -1,8 +1,8 @@
-package Gun1_Ders_ve_Odev.helloJava.asalSayiMi;
+package Gun1_Ders_ve_Odev.helloJava.AsalSayiMi;
 
 import java.util.Scanner;
 
-public class asalSayiMi {
+public class AsalSayiMi {
     public static void main(String[] args){
         System.out.println("Lütfen Pozitif bir sayı giriniz : ");
         Scanner tara = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package Gun1_Ders_ve_Odev.helloJava.sesliHarfler;
+package Gun1_Ders_ve_Odev.helloJava.SesliHarfler;
 
 import java.util.Scanner;
 
-public class sesliHarfler {
+public class SesliHarfler {
     public static void main(String[] args) {
         System.out.print("Lütfen sesli bir harf giriniz: ");
         Scanner tara = new Scanner(System.in);

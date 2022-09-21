@@ -1,6 +1,6 @@
-package Gun1_Ders_ve_Odev.helloJava.variables;
+package Gun1_Ders_ve_Odev.helloJava.Variables;
 
-public class variables {
+public class Vvariables {
     public static void main(String[] args){
         byte sayi = 12; //-128..127
 

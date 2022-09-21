@@ -1,6 +1,6 @@
-package Gun1_Ders_ve_Odev.helloJava.loopDemo;
+package Gun1_Ders_ve_Odev.helloJava.LoopDemo;
 
-public class loopDemo {
+public class LoopDemo {
     public static void main(String[] args){
         //For Döngüsü
         for (int i = 0;i<10;i++){

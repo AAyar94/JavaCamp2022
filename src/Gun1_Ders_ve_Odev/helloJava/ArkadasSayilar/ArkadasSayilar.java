@@ -1,8 +1,8 @@
-package Gun1_Ders_ve_Odev.helloJava.arkadasSayilar;
+package Gun1_Ders_ve_Odev.helloJava.ArkadasSayilar;
 
 import java.util.Scanner;
 
-public class arkadasSayilar {
+public class ArkadasSayilar {
     public static void main(String[] args){
         System.out.println("Birinci Sayıyı Giriniz : ");
         Scanner tara = new Scanner(System.in);
