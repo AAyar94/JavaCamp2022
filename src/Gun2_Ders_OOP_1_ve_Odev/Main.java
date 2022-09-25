@@ -1,4 +1,6 @@
-package Gun2_Ders_OOP_1;
+package Gun2_Ders_OOP_1_ve_Odev;
+
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args){
@@ -50,6 +52,9 @@ public class Main {
         corporateCustomer.setTaxNumber("1234567890");
 
         Customer[] customers = {individualCustomer,corporateCustomer};
+
+        System.out.println(Arrays.toString(customers));
+        
 
     }
 
