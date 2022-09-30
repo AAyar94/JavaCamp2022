@@ -5,9 +5,12 @@ public class Main {
 
         ProductManager manager = new ProductManager();
         Product product = new Product();
-        product.price=10;
         product.name="Mause";
+        product.price=10;
 
         manager.add(product);
+
+        DatabaseHelper.Crud.delete();
+        DatabaseHelper.Connection.createConnection();
     }
 }
