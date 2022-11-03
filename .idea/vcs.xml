@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Gun4_Spring101/RentACar-Spring101" vcs="Git" />
   </component>
 </project>
