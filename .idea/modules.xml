@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaCamp2022.iml" filepath="$PROJECT_DIR$/JavaCamp2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Gun4_Spring101/Kodlama.io.Devs/Kodlama.io.Devs.iml" filepath="$PROJECT_DIR$/src/Gun4_Spring101/Kodlama.io.Devs/Kodlama.io.Devs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Gun4_Spring101/RentACar/rentACar.iml" filepath="$PROJECT_DIR$/src/Gun4_Spring101/RentACar/rentACar.iml" />
     </modules>
   </component>
 </project>
